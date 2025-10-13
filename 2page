@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Таксы — подробности</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Подробности о породе такса</h1>
+
+  <h2>Описание породы</h2>
+  <p>Такса — небольшая собака с удлинённым телом и короткими ногами, известная своим живым характером и верностью. Эти собаки отлично подходят для семей с детьми и активных людей.</p>
+
+  <h2>Особенности ухода</h2>
+  <p>Таксам требуется регулярный уход за шерстью, особенно у длинношерстных разновидностей. Также важно поддерживать здоровье спины, избегая чрезмерных нагрузок, чтобы предотвратить проблемы с позвоночником.</p>
+
+  <h2>Фотографии</h2>
+  <img src="https://cdn2.thedogapi.com/images/Sy57xx9EX.jpg" alt="Такса" />
+  <img src="https://cdn2.thedogapi.com/images/HkNkxlqE7.jpg" alt="Такса" />
+
+  <nav>
+    <a href="first_website.html">← Вернуться на главную</a>
+  </nav>
+</body>
+</html>
